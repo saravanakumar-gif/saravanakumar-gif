@@ -49,8 +49,8 @@
 - REST API integration
 - Backend & Frontend separated architecture
 
-🔗 Backend: https://github.com/saravanakumar-gif/health-management-backend.git
-🔗 Frontend:https://github.com/saravanakumar-gif/health-management-frontend.git
+🔗 Backend: (https://github.com/saravanakumar-gif/health-management-backend.git)
+🔗 Frontend:(https://github.com/saravanakumar-gif/health-management-frontend.git)
 ---
 
 ### 👨‍💼 Employee Management System
@@ -58,13 +58,7 @@
 - CRUD operations
 - Pagination & API validation
 - Database integration
-
----
-
-## 📊 GitHub Stats
-
-![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanakumar-gif&show_icons=true&theme=tokyonight)
-
+  
 ---
 
 ## 📫 Connect With Me
