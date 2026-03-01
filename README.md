@@ -19,9 +19,8 @@
 - Java
 - Spring Boot
 - Spring Data JPA
-- Hibernate
 - REST API
-- JWT Authentication
+
 
 ### 🌐 Frontend
 - React.js
@@ -32,13 +31,13 @@
 
 ### 🗄 Database
 - MySQL
-- PostgreSQL
+
 
 ### ⚙ Tools
 - Git & GitHub
 - Postman
 - VS Code
-- IntelliJ IDEA
+- Eclipse IDEA
 
 ---
 
@@ -50,9 +49,8 @@
 - REST API integration
 - Backend & Frontend separated architecture
 
-🔗 Backend: (add backend repo link)
-🔗 Frontend: (add frontend repo link)
-
+🔗 Backend: https://github.com/saravanakumar-gif/health-management-backend.git
+🔗 Frontend:https://github.com/saravanakumar-gif/health-management-frontend.git
 ---
 
 ### 👨‍💼 Employee Management System
@@ -65,15 +63,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saravanakumar-gif&show_icons=true&theme=tokyonight)
+![Saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanakumar-gif&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add link)
+- 💼 LinkedIn: https://www.linkedin.com/in/saravanakumar-p-125684295/
 - 🌐 Portfolio: (add link)
-- 📧 Email: (add email)
+- 📧 Email:saravana904218@gmail.com
 
 ---
 
