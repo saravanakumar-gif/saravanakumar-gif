@@ -66,7 +66,7 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/saravanakumar-p-125684295/
-- 🌐 Portfolio: (add link)
+- 🌐 Portfolio: https://saravanakumar-dev.netlify.app/
 - 📧 Email:saravana904218@gmail.com
 
 ---
