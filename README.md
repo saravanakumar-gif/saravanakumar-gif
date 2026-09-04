@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2024 Graduate
+
 - 💻 Passionate Java Full Stack Developer
 - 🔥 Strong in Backend Development using Spring Boot
 - 🌱 Currently improving System Design & Problem Solving
@@ -38,38 +38,3 @@
 - Postman
 - VS Code
 - Eclipse IDEA
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Health Management System
-- Full Stack application using Spring Boot & React
-- CRUD operations for patient management
-- REST API integration
-- Backend & Frontend separated architecture
-
-🔗 Backend: (https://github.com/saravanakumar-gif/health-management-backend.git)
-
-🔗 Frontend: (https://github.com/saravanakumar-gif/health-management-frontend.git)
-
----
-
-### 👨‍💼 Employee Management System
-- Role-based authentication
-- CRUD operations
-- Pagination & API validation
-- Database integration
-- https://github.com/saravanakumar-gif/employee-management-system.git
-  
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/saravanakumar-p-125684295/
-- 🌐 Portfolio: https://saravanakumar-dev.netlify.app/
-- 📧 Email:saravana904218@gmail.com
-
----
-
-⭐ "First opportunity is all I need. I’ll prove my skills with action."
